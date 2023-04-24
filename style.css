@@ -16,8 +16,16 @@
 
 a {
   text-decoration: none;
+  color: white;
+}
+
+.etxlogo {
+  width: 150px;
+  height: 150px;
 }
 
 img {
   background-color: #242424;
+  width: 200px;
+  height: 150px;
 }
