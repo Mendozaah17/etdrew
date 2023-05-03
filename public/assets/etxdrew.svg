@@ -1,35 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <script
-      src="https://kit.fontawesome.com/8c3e93fa79.js"
-      crossorigin="anonymous"
-    ></script>
-    <title>EtxDrew</title>
-  </head>
-  <body>
-    <div class="container">
-      <header class="logo-container">
-        <svg
-          version="1.1"
-          id="Layer_1"
-          xmlns="http://www.w3.org/2000/svg"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
-          x="0px"
-          y="0px"
-          width="100%"
-          viewBox="0 0 864 1024"
-          enable-background="new 0 0 864 1024"
-          xml:space="preserve"
-        >
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100%" viewBox="0 0 864 1024" enable-background="new 0 0 864 1024" xml:space="preserve">
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M110.775742,602.255615 
 	C99.143188,602.232849 87.977592,602.213501 76.811996,602.188904 
 	C75.312325,602.185547 73.810028,602.206543 72.313522,602.128540 
@@ -137,13 +109,9 @@ M110.775742,602.255615
 	C94.730270,617.505920 104.821465,612.000427 114.897476,606.467346 
 	C116.181145,605.762329 117.371391,604.887207 119.035011,603.813354 
 	C116.438522,601.490967 113.683403,602.588257 110.775742,602.255615 
-z"
-          />
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+z"/>
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M743.162720,795.836548 
 	C732.395996,784.962952 721.877380,774.341309 710.516846,762.869507 
 	C706.733337,772.969849 703.360046,781.934937 700.015625,790.910706 
@@ -202,13 +170,9 @@ M743.162720,795.836548
 	C766.957886,808.896484 769.483826,811.244019 766.528992,813.999390 
 	C763.798706,816.545654 761.565491,814.163757 759.684265,812.329102 
 	C754.198425,806.978394 748.827026,801.510498 743.162720,795.836548 
-z"
-          />
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+z"/>
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M493.000000,451.930176 
 	C503.039124,452.300690 512.688293,450.850525 521.975830,452.984070 
 	C522.743225,456.312256 520.479980,457.040863 518.986633,458.146667 
@@ -235,13 +199,9 @@ M493.000000,451.930176
 	C445.445618,413.649872 450.840454,430.099365 455.898529,446.650787 
 	C457.260681,451.108093 459.211182,452.650787 464.024750,452.350861 
 	C473.488464,451.761139 483.005188,452.022186 493.000000,451.930176 
-z"
-          />
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+z"/>
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M334.850464,769.729614 
 	C316.124847,821.256775 297.549805,872.424255 278.957245,923.585449 
 	C278.275787,925.460571 277.445221,927.283203 276.644257,929.112854 
@@ -255,13 +215,9 @@ M334.850464,769.729614
 	C377.907745,634.368347 377.283569,637.286560 377.288940,639.743591 
 	C377.321686,654.725342 371.997955,668.389526 366.937622,682.138794 
 	C356.242706,711.197632 345.639099,740.290161 334.850464,769.729614 
-z"
-          />
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+z"/>
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M602.652832,376.754730 
 	C591.560425,381.825043 580.614868,386.354004 570.111938,391.745239 
 	C561.523804,396.153625 552.302063,396.891266 543.118347,398.230591 
@@ -274,13 +230,9 @@ M602.652832,376.754730
 	C795.015869,287.822815 793.357849,289.584442 791.034973,290.669647 
 	C786.963684,292.571564 782.836365,294.353088 778.749207,296.221619 
 	C720.161499,323.006195 661.576599,349.796936 602.652832,376.754730 
-z"
-          />
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+z"/>
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M259.174622,658.199036 
 	C278.545258,632.723511 297.836700,607.633301 316.763855,582.271240 
 	C322.301331,574.851196 329.375549,569.556641 336.897369,564.600891 
@@ -293,13 +245,9 @@ M259.174622,658.199036
 	C166.118439,780.403381 168.468079,777.731995 170.160080,775.500061 
 	C185.251816,755.592468 200.402405,735.729431 215.506775,715.831421 
 	C230.007874,696.728027 244.474655,677.598633 259.174622,658.199036 
-z"
-          />
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+z"/>
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M536.661743,297.681183 
 	C583.111633,243.578659 629.318909,189.736359 675.536804,135.903152 
 	C678.898743,131.987198 682.269653,128.074463 685.771362,124.284912 
@@ -312,13 +260,9 @@ M536.661743,297.681183
 	C511.587830,335.913635 512.284363,334.112213 512.927368,332.371307 
 	C516.558044,322.540771 522.248230,314.000793 529.232666,306.257874 
 	C531.686096,303.537964 534.028625,300.717957 536.661743,297.681183 
-z"
-          />
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+z"/>
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M658.066406,445.679718 
 	C713.841553,447.128601 769.125977,448.566803 824.409546,450.035736 
 	C829.568542,450.172821 834.723694,450.480103 839.878113,450.755707 
@@ -331,13 +275,9 @@ M658.066406,445.679718
 	C566.293945,448.721771 568.860901,448.064819 571.100098,447.257874 
 	C585.322876,442.132080 600.046692,443.725677 614.648132,444.078705 
 	C628.961731,444.424805 643.266724,445.129913 658.066406,445.679718 
-z"
-          />
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+z"/>
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M479.377441,296.259705 
 	C476.771973,305.625641 474.197968,314.581573 471.728973,323.566315 
 	C469.467163,331.797241 464.250671,338.378510 459.728668,345.346283 
@@ -348,13 +288,9 @@ M479.377441,296.259705
 	C531.629517,82.717155 532.200012,78.570786 536.522522,79.689034 
 	C540.192566,80.638489 539.262573,84.033470 538.466431,86.853050 
 	C518.793945,156.522263 499.124603,226.192352 479.377441,296.259705 
-z"
-          />
-          <path
-            fill="#000000"
-            opacity="1.000000"
-            stroke="none"
-            d="
+z"/>
+<path fill="#000000" opacity="1.000000" stroke="none" 
+	d="
 M433.812805,731.844299 
 	C432.873505,715.425354 432.074402,699.473938 430.991974,683.541748 
 	C430.376160,674.477173 433.184174,666.144470 435.726990,657.719360 
@@ -371,111 +307,5 @@ M433.812805,731.844299
 	C441.905334,874.652344 439.917175,840.110046 437.996979,805.563965 
 	C436.805908,784.136292 435.762665,762.700439 434.618439,741.270081 
 	C434.458862,738.281250 434.100647,735.303040 433.812805,731.844299 
-z"
-          />
-        </svg>
-        <h2>ETXDrew</h2>
-      </header>
-      <nav>
-        <div class="page-nav">
-          <a href="#home">Home</a>
-          <a href="#portfolio">Portfolio</a>
-          <a href="#services">Services</a>
-        </div>
-        <div class="social-container">
-          <a href=""><i class="fa-brands fa-facebook"></i></a>
-          <a href="https://www.instagram.com/etxdrew/"
-            ><i class="fa-brands fa-instagram"></i
-          ></a>
-          <a href=""><i class="fa-brands fa-twitter"></i></a>
-        </div>
-      </nav>
-      <main class="home-container">
-        <div id="home" class="container">
-          <h1>A unique barber experience</h1>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
-            ab nesciunt et modi nam beatae distinctio eum dolorem inventore
-            illum iste dolore fugit corrupti exercitationem magnam quisquam,
-            doloribus deleniti sapiente.
-          </p>
-          <img src="" />
-        </div>
-        <div class="button-container">
-          <button>Book an appointment</button>
-          <button>Browse Services</button>
-        </div>
-      </main>
-      <section id="portfolio" class="portfolio-container">
-        <div>
-          <img src="" />
-          <img src="" />
-          <img src="" />
-          <img src="" />
-          <img src="" />
-        </div>
-      </section>
-      <section id="services" class="service-container">
-        <div class="service-heading">
-          <h2>Browse our services</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta,
-            iste. Vel maxime quam ipsum dolore velit fugit, laboriosam hic.
-            Eligendi, ab. Voluptatibus illo culpa dolores earum sequi magnam!
-            Aspernatur, nobis.
-          </p>
-        </div>
-        <div class="service-desc">
-          <div>
-            <img />
-            <p>lorem ipsum</p>
-            <p>lorem ipsum, dolor</p>
-          </div>
-          <div>
-            <svg />
-            <p>lorem ipsum</p>
-            <p>lorem ipsum, dolor</p>
-          </div>
-          <div>
-            <svg />
-            <p>lorem ipsum</p>
-            <p>lorem ipsum, dolor</p>
-          </div>
-          <div>
-            <img />
-            <p>lorem ipsum</p>
-            <p>lorem ipsum, dolor</p>
-          </div>
-          <div>
-            <img />
-            <p>lorem ipsum</p>
-            <p>lorem ipsum, dolor</p>
-          </div>
-          <div>
-            <img />
-            <p>lorem ipsum</p>
-            <p>lorem ipsum, dolor</p>
-          </div>
-        </div>
-      </section>
-      <footer class="footer">
-        <div class="page-container">
-          <div class="page-links">
-            <a>Twitter</a>
-            <a>Github</a>
-          </div>
-          <div class="creator-container">
-            <div class="myWorks">
-              <p>
-                Created and maintained by MendozaCodes<i
-                  class="fa-solid fa-laptop-code"
-                ></i>
-              </p>
-            </div>
-          </div>
-        </div>
-      </footer>
-    </div>
-    <script type="module" src="/main.js"></script>
-  </body>
-</html>
+z"/>
+</svg>
